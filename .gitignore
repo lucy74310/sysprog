@@ -1,0 +1,21 @@
+# Ignore all
+*
+
+# Unignore all with extensions
+!*.*
+
+# Unignore all dirs
+!*/
+
+### Above combination will ignore all files without extension ###
+
+
+#Ignore files with extension 'o' & 'a'
+*.[oa]
+
+
+#Ignore files with ending '~'
+*~
+
+
+
